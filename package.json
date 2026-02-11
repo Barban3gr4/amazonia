@@ -1,0 +1,18 @@
+{
+  "name": "amazonia-viva",
+  "version": "1.0.0",
+  "description": "Sistema sobre a Amazônia Brasileira",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
