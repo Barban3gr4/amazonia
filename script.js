@@ -16,10 +16,10 @@ function reveal() {
 
 window.addEventListener("scroll", reveal);
 
-// Initial check
+// Verificação inicial
 reveal();
 
-// Smooth parallax effect for hero text
+// Efeito de paralaxe suave para o texto do hero
 window.addEventListener("scroll", function () {
   const heroText = document.querySelector(".hero-content");
   let scrollPosition = window.pageYOffset;
